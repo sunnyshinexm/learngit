@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.feature2
 --no-ff
-add /usr/bin/env
+/usr/bin/env
